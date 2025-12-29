@@ -1,122 +1,103 @@
-# Hi 👋, I'm Saswat Sagar Sahu
+<base target="_blank">
 
-🚀 **Backend Engineer | Java & Spring Boot | Microservices | Cloud-Native Systems**
+<h1 align="center">
+  Hi 👋, I'm Saswat Sagar Sahu
+</h1>
 
-📍 Bangalore, India  
-📞 +91-8117084133  
-📧 [sagarsaswat9@gmail.com](mailto:sagarsaswat9@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/saswat-sagar-sahu-9811371a1/)  
-💻 [GitHub](https://github.com/saswat-sagar-sahu)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Microservices+%26+Distributed+Systems;Cloud+Native+%7C+AWS+%7C+Docker+%7C+Kubernetes;Golang+%7C+System+Design+%7C+Scalable+APIs" />
+</p>
 
----
 
-## 👨‍💻 About Me
-
-I’m a **results-driven Backend Engineer with 4.7+ years of experience** building scalable, secure, and high-performance backend systems. I specialize in **Java, Spring Boot, and Microservices**, with hands-on exposure to **Golang**, **CI/CD**, and **containerized deployments**.
-
-I enjoy working on:
-- Clean architecture & system design
-- Performance optimization & API security
-- Automated testing (95%+ coverage)
-- Cloud-native & distributed systems
-
-Always curious, always learning. ⚡
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saswat-sagar-sahu-9811371a1/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sagarsaswat9@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-brown?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Saswat_Sagar/)
+![](https://komarev.com/ghpvc/?username=saswat-sagar-sahu&style=flat-square&label=Profile+Views)
 
 ---
 
-## 🛠️ Tech Stack
+🚀 Backend Engineer with **4.9+ years of experience** building **scalable, secure, cloud-native systems** using **Java, Spring Boot, and Microservices**.  
+Hands-on with **Golang**, **distributed systems**, **CI/CD**, and **containerized deployments**.  
+I enjoy solving **system design problems**, improving **performance & reliability**, and writing **clean, testable code**.
 
-### 🚀 Programming Languages
-- **Java**, **Golang**, Python, C  
-- JavaScript, HTML/CSS
+---
 
-### 🧩 Frameworks & Libraries
-- Spring Boot, Spring Cloud, Spring Security  
-- Hibernate, JUnit, Karate, Rest Assured
+## 💫 More About Me
+
+- 👨‍💼 **Senior Consultant @ Thoughtworks** (Client: Smarsh – Telemessage Platform)
+- 🔐 Building **secure, compliant backend systems** for enterprise-scale messaging & archiving platforms
+- ⚡ Designed and delivered **25+ production-grade REST APIs** with strong focus on performance & reliability
+- 📈 Improved system throughput and latency using **Redis caching and async processing**
+- 🧠 Strong background in **system design, LLD, and backend architecture**
+- ☁️ Hands-on with **AWS, CI/CD pipelines, and containerized deployments**
+- 🌱 Actively working with **Golang** for backend services and performance-critical components
+- 📍 Bangalore, India
+
+---
+
+## 😄 What I Enjoy
+
+- 🧠 Designing scalable backend systems
+- ⚙️ Optimizing APIs & distributed workflows
+- ☁️ Cloud & DevOps tooling
+- 🏗️ Clean architecture & refactoring legacy systems
+
+---
+
+## 🔨 My Tech Stack
+
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=java,go,python,js,php,c,html,css&perline=6)](https://skillicons.dev)
+
+### ⚙️ Backend & Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=spring,hibernate,nodejs&perline=6)](https://skillicons.dev)
 
 ### 🗄️ Databases & Caching
-- MySQL, PostgreSQL, MongoDB, DB2  
-- Redis
+[![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&perline=6)](https://skillicons.dev)
 
 ### 🔄 Messaging & Streaming
-- Kafka, RabbitMQ
+[![Messaging](https://skillicons.dev/icons?i=kafka,rabbitmq&perline=6)](https://skillicons.dev)
 
-### ☁️ DevOps & Cloud
-- Docker, Kubernetes  
-- CI/CD (Jenkins, Concourse, Argo CD)  
-- AWS  
-- Maven, Gradle  
-- Grafana
+### ☁️ DevOps, Cloud & CI/CD
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions&perline=6)](https://skillicons.dev)
 
-### 🧠 Core Strengths
-- Data Structures & Algorithms  
-- System Design & LLD  
-- RESTful APIs & API Security  
-- BDD & Automated Testing  
+### 🧩 Additional Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,idea,gherkin,postman,vscode,maven,gradle,grafana,linux&perline=6)](https://skillicons.dev)
 
----
+> **Also worked with:**  
+> 🔹 Concourse CI  
+> 🔹 AWS S3  
+> 🔹 Argo CD  
+> 🔹 Karate, Rest Assured, JUnit  
+> 🔹 Kafka-based logging & observability
 
-## 💼 Experience
-
-### 🏢 Senior Consultant — Thoughtworks (Bangalore)  
-📅 *July 2025 – Present*
-- Working with **Smarsh** to enhance security and compliance of the **Telemessage** product
-- Implemented **BDD test cases using Karate**, achieving **95% code coverage**
-- Split a monolithic repo into **modular components** to improve build time and deployments
-- Actively contributing to **Golang-based microservice migration**
 
 ---
 
-### 🏢 Software Engineer 2 — Outcomes Operating India Pvt. Ltd.  
-📅 *July 2024 – July 2025*
-- Designed and built **25+ REST APIs** from scratch (API-as-a-Service)
-- Implemented **OAuth 2.0** for secure authentication & authorization
-- Integrated **Redis caching**, reducing API latency by **25%**
-- Led **performance testing** using **K6** and functional testing with **Rest Assured**
-- Automated CI/CD pipelines for faster and safer releases
-- Led a **pod of 4 engineers**, driving delivery and technical quality
+## 🏢 Organizations & Work
+
+- **Thoughtworks** — *Senior Consultant (Backend Engineer)*  
+  Working on enterprise-scale, security-critical backend systems for the **Smarsh (Telemessage)** platform, focusing on compliance, performance, and reliability.
+
+- **Outcomes Operating India Pvt. Ltd.** — *Software Engineer 2*  
+  Designed and delivered scalable **API-as-a-Service** platforms, implemented OAuth-based security, caching, performance testing, and led a pod of engineers.
+
+- **Digit Insurance** — *Senior Software Engineer*  
+  Built and optimized **microservices-based insurance platforms**, generic policy issuance APIs, Kafka-based logging, and high-throughput payment & claims systems.
+
 
 ---
 
-### 🏢 Senior Software Engineer — Digit Insurance  
-📅 *April 2021 – July 2024*
-- Designed scalable **microservices architecture**
-- Built **generic policy issuance APIs**, reducing OEM onboarding time by **75%**
-- Optimized claims processing using **factory pattern** (30% faster)
-- Implemented **DB-driven configurations** for motor policies
-- Improved payment reliability with retry & alert mechanisms (**20% fewer failures**)
-- Configured **Kafka** for centralized logging and observability
+## 🏆 Highlights
+
+- 🏅 **Tech Titan Award** – 2022 & 2023  
+- 🥇 **Smart Odisha Hackathon Winner (2018)**  
+- ⚡ APIs & systems serving **high-scale production traffic**
 
 ---
 
-## 🎓 Education
+<div align="center">
 
-**Bachelor of Technology (B.Tech) – Computer Science & Engineering**  
-Silicon Institute of Technology, Bhubaneswar  
-📅 *2017 – 2021*  
-🎯 **CGPA: 8.49**
+> *“First, make it work. Then, make it right. Then, make it fast.”*
 
----
-
-## 🏆 Achievements
-
-- 🏅 **Tech Titan Award** (2022 & 2023)  
-  *For ownership, teamwork, troubleshooting, and mentoring*
-- 🥇 **1st Place – Smart Odisha Hackathon 2018**  
-  *Urban Development category*
-
----
-
-## 🤝 Let’s Connect
-
-💬 I’m open to discussions around:
-- Backend architecture & system design  
-- Java / Spring Boot best practices  
-- Microservices & cloud-native systems  
-- Golang for backend services  
-
-📫 Reach out via **LinkedIn or Email** — always happy to connect!
-
----
-
-⭐ *If you like my work, feel free to star my repositories!*
+</div>
