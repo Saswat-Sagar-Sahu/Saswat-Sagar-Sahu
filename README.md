@@ -9,7 +9,7 @@
 </p>
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saswat-sagar-sahu-9811371a1/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saswat-sagar-sahu/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sagarsaswat9@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-brown?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Saswat_Sagar/)
 ![](https://komarev.com/ghpvc/?username=saswat-sagar-sahu&style=flat-square&label=Profile+Views)
