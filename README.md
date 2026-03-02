@@ -16,7 +16,7 @@
 
 ---
 
-🚀 Backend Engineer with **4.9+ years of experience** building **scalable, secure, cloud-native systems** using **Java, Spring Boot, and Microservices**.  
+🚀 Backend Engineer with **4.10+ years of experience** building **scalable, secure, cloud-native systems** using **Java, Spring Boot, and Microservices**.  
 Hands-on with **Golang**, **distributed systems**, **CI/CD**, and **containerized deployments**.  
 I enjoy solving **system design problems**, improving **performance & reliability**, and writing **clean, testable code**.
 
@@ -24,7 +24,7 @@ I enjoy solving **system design problems**, improving **performance & reliabilit
 
 ## 💫 More About Me
 
-- 👨‍💼 **Senior Consultant @ Thoughtworks** (Client: Smarsh – Telemessage Platform)
+- 👨‍💼 **Senior Consultant @ Thoughtworks**
 - 🔐 Building **secure, compliant backend systems** for enterprise-scale messaging & archiving platforms
 - ⚡ Designed and delivered **25+ production-grade REST APIs** with strong focus on performance & reliability
 - 📈 Improved system throughput and latency using **Redis caching and async processing**
@@ -77,10 +77,10 @@ I enjoy solving **system design problems**, improving **performance & reliabilit
 ## 🏢 Organizations & Work
 
 - **Thoughtworks** — *Senior Consultant (Backend Engineer)*  
-  Working on enterprise-scale, security-critical backend systems for the **Smarsh (Telemessage)** platform, focusing on compliance, performance, and reliability.
+  Working on enterprise-scale, security-critical backend systems for the **Archive Message** platform, focusing on compliance, performance, and reliability.
 
 - **Outcomes Operating India Pvt. Ltd.** — *Software Engineer 2*  
-  Designed and delivered scalable **API-as-a-Service** platforms, implemented OAuth-based security, caching, performance testing, and led a pod of engineers.
+  Designed and delivered scalable **Software-as-a-Service** platforms, implemented OAuth-based security, caching, performance testing, and led a pod of engineers.
 
 - **Digit Insurance** — *Senior Software Engineer*  
   Built and optimized **microservices-based insurance platforms**, generic policy issuance APIs, Kafka-based logging, and high-throughput payment & claims systems.
