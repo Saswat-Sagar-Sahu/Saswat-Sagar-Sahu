@@ -1,157 +1,186 @@
-# <div align="center">Hi 👋, I'm Saswat Sagar Sahu</div>
+# <div align="center">Hi 👋 I'm Saswat Sagar Sahu</div>
 
 <div align="center">
 
-### Senior Backend Engineer • Distributed Systems Enthusiast • AI-Assisted Builder
+### Senior Backend Engineer • Distributed Systems • AI Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Go;Distributed+Systems+%7C+Cloud+Native+Applications;20M%2B+Events%2FDay+%7C+300K%2B+Transactions%2FMonth;Exploring+AI-Assisted+Software+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=38B2AC&center=true&vCenter=true&width=900&lines=Building+Scalable+Distributed+Systems;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Go;Cloud-Native+Microservices;20M%2B+Events+Processed+Daily;AI-Assisted+Software+Engineering" />
 
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saswat-sagar-sahu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/saswat-sagar-sahu">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-  <a href="mailto:sagarsaswat9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:sagarsaswat9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/Saswat-Sagar-Sahu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://leetcode.com/u/Saswat_Sagar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
-  <a href="https://leetcode.com/u/Saswat_Sagar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/Saswat-Sagar-Sahu">
+<img src="https://img.shields.io/github/followers/Saswat-Sagar-Sahu?style=for-the-badge"/>
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saswat-sagar-sahu&style=for-the-badge&label=Profile+Views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Backend Engineer with **5+ years of experience** designing and building distributed systems using **Java, Spring Boot, Kafka, Redis, Go, and AWS**.
+Backend Software Engineer with **5+ years** of experience building scalable backend platforms and distributed systems.
 
-I enjoy solving engineering problems involving:
+I enjoy designing systems that are:
 
-* ⚡ High-throughput event processing
-* 🏗️ Microservices & distributed systems
-* ☁️ Cloud-native architectures
-* 📈 Performance optimization
-* 🔍 Observability & reliability
-* 🤖 AI-assisted developer productivity
-
-### Highlights
-
-* 🚀 Architected platforms processing **20M+ events/day**
-* 📊 Built systems supporting **300K+ transactions/month**
-* ⚡ Reduced API response times from **8s → <2s**
-* 🔥 Improved build efficiency by **45%**
-* 🤖 Reduced engineering effort by **60% using LLM-powered automation**
+- ⚡ Low Latency
+- 📈 Highly Scalable
+- 🔄 Event Driven
+- ☁️ Cloud Native
+- 🔒 Reliable
+- 🤖 AI Assisted
 
 ---
 
-## 💼 Experience Snapshot
+# 💼 Engineering Highlights
 
-### 🏢 Thoughtworks — Senior Consultant
+✔ Designed backend systems processing **20M+ events/day**
 
-* Architected Kafka routing and dispatch platforms processing **20M+ events/day**
-* Built backend capabilities for large-scale quick-commerce workflows
-* Reduced build times by **45%** through modular decomposition
-* Developed AI-powered engineering tooling using **LangGraph & OpenAI APIs**
+✔ Delivered **25+ production APIs**
 
-### 🏢 Outcomes
+✔ Built platforms serving **300K+ transactions/month**
 
-* Delivered **25+ production APIs**
-* Supported **100K+ requests/day**
-* Improved latency by **25% using Redis**
-* Led large-scale performance testing with **10K concurrent users**
+✔ Reduced latency from **8s → <2s**
 
-### 🏢 Digit Insurance
+✔ Reduced engineering effort by **60%** using AI
 
-* Architected migration into **8 Spring Boot microservices**
-* Supported **300K+ policy transactions/month**
-* Reduced quote generation time from **8s to under 2s**
-* Built Kafka pipelines ingesting **3M+ logs/day**
+✔ Reduced build time by **45%**
 
 ---
 
-## 🛠️ Tech Stack
+# 🏗 Engineering Focus
 
-### Languages
+```text
+Backend Development
+████████████████████ 100%
+
+Distributed Systems
+███████████████████░ 95%
+
+System Design
+███████████████████░ 95%
+
+Performance Optimization
+██████████████████░░ 90%
+
+Cloud Engineering
+█████████████████░░░ 85%
+
+AI Engineering
+████████████████░░░░ 80%
+```
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,go,python&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,go,python"/>
 </p>
 
-### Backend & Distributed Systems
+## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,redis,kafka,rabbitmq&perline=6"/>
+<img src="https://skillicons.dev/icons?i=spring,kafka,redis,mysql,postgres,mongodb"/>
 </p>
 
-### Databases
+## Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=6"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions"/>
 </p>
 
-### Cloud & DevOps
+## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions&perline=6"/>
-</p>
-
-### Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,idea,linux,postman,grafana,maven,gradle&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,linux,idea,postman,maven,gradle"/>
 </p>
 
 ---
 
-## 🤖 AI-Assisted Engineering
+# 🤖 AI Engineering
 
-I actively explore how AI can improve software engineering workflows.
+Currently exploring Agentic AI for software engineering.
 
-### Tools & Frameworks
+### Stack
 
-* LangChain
-* LangGraph
-* OpenAI APIs
-* GitHub Copilot
-* Cursor
-* Claude Code
+- LangGraph
+- LangChain
+- OpenAI API
+- Claude API
+- Cursor
+- GitHub Copilot
 
-### Recent Exploration
-
-Built an LLM-powered dependency upgrade assistant capable of analyzing upgrade paths across microservices, reducing manual effort by **60%** while eliminating version conflicts.
+Recent work includes building an AI-powered code modernization platform that automates dependency upgrades, code transformation, validation, and pull request generation for enterprise repositories.
 
 ---
 
-## 🏆 Achievements
+# 🚀 Featured Projects
 
-* 🥇 Tech Titan Award Recipient (2022 & 2023)
-* 🏅 Smart Odisha Hackathon Winner
-* 🎯 Passionate about building systems that are scalable, reliable, and easy to evolve
+### 🔹 Real-Time Fraud Detection Platform
+
+Kafka • Go • Redis • Docker
+
+- Event-driven architecture
+- Rule-based fraud engine
+- Real-time alerting
+- Redis-backed state management
 
 ---
 
-## 📚 Currently Exploring
+### 🔹 AI Code Modernization Platform
 
-* Advanced Distributed Systems Patterns
-* AI-Assisted Software Development
-* Golang for High-Performance Services
-* System Design at Scale
+LangGraph • Python • Claude
+
+- Multi-agent workflows
+- Repository analysis
+- Automated dependency upgrades
+- Pull Request generation
+
+
+---
+
+# 🏆 Achievements
+
+🥇 Tech Titan Award (2022)
+
+🥇 Tech Titan Award (2023)
+
+🏆 Smart Odisha Hackathon Winner
+
+---
+
+# 📚 Currently Learning
+
+- Event-Driven Architectures
+- Distributed Systems
+- Golang Internals
+- High Performance Services
+- Agentic AI
+- System Design
 
 ---
 
 <div align="center">
 
-### 💡 "First, make it work. Then, make it right. Then, make it fast."
+## 💬 Favorite Quote
+
+*"Programs must be written for people to read, and only incidentally for machines to execute."*
+
+— Harold Abelson
 
 </div>
